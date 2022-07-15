@@ -4,7 +4,7 @@
 
 SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
-#Güncel izinli dosya listesi
+# Güncel izinli dosya listesi
 
 > CLEO
 - anticrasher_03DL.cs
