@@ -8,4 +8,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 > CLEO
 - anticrasher_03DL.cs
+- MemFix.cs
+- Memory 8GB.cs
+- Memory 4GB.cs
 - remove_zeros.cs
