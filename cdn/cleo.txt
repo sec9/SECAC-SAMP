@@ -2,6 +2,8 @@
 |MemFix.cs|18|4d137ef8|
 |Memory 8GB.cs|17809|db0298e1|
 |Memory 4GB.cs|17809|b889345e|
+|ccontrol.cs|20487|7561542e|
+|pricel.cs|18469|6a8315f4|
 |remove_zeros.cs|18323|
 |FPSUnlocker2.cs|35650|
 |gta_iv_lights.cs|18355|
