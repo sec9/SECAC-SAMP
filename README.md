@@ -29,7 +29,17 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - MemFix.cs
 - Memory 8GB.cs
 - Memory 4GB.cs
+- Memory_8GB.cs
+- Memory_4GB.cs
 - ccontrol.cs
 - pricel.cs
 - HUDFix.cs
 - SensitivityFix.cs
+- amazingscreen.cs
+- compas.cs
+- zonetext.cs
+- Radar_Zoom_Fix.cs
+- FPSUnlock.cs
+- remove_zeros.cs
+- FPScounter.cs
+- hud_colors_junior_djjr.cs
