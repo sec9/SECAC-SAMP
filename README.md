@@ -28,3 +28,4 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - ccontrol.cs
 - pricel.cs
 - remove_zeros.cs
+- SensitivityFix.cs
