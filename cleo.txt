@@ -16,3 +16,4 @@
 |hud_colors_junior_djjr.cs|3707|cc667962|
 |remove_zeros.cs|18323|bd48a59f|
 |FPScounter.cs|22095|c3268805|
+|hitmarker.cs|22605|7fb7dd7d|
