@@ -27,5 +27,5 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Memory 4GB.cs
 - ccontrol.cs
 - pricel.cs
-- remove_zeros.cs
+- HUDFix.cs
 - SensitivityFix.cs
