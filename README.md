@@ -44,3 +44,10 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - FPScounter.cs
 - hud_colors_junior_djjr.cs
 - hitmarker.cs
+- CamEffects.cs
+- camera.cs
+- CamHeli.cs
+- FPSUnlock_03DL.cs
+- NIGHT.cs
+- radio_off.cs
+- Health.cs
