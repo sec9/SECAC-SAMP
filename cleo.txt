@@ -17,3 +17,10 @@
 |remove_zeros.cs|18323|bd48a59f|
 |FPScounter.cs|22095|c3268805|
 |hitmarker.cs|22605|7fb7dd7d|
+|CamEffects.cs|17927|07930e79|
+|camera.cs|18722|4dbdbaaf|
+|CamHeli.cs|26209|c924c5ac|
+|FPSUnlock_03DL.cs|17917|e65f863e|
+|NIGHT.cs|17594|68ac5a08|
+|radio_off.cs|17644|54ed5b98|
+|Health.cs|17682|cdb91dd9|
