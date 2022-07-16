@@ -15,6 +15,9 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 > /moneyborder [0-2]
 - Sağ üstteki para göstergesinin dışındaki siyahlığın kalınlığını belirler.
 
+# Bilinen Açıklar / Hatalar
+- SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
+
 # Güncel izinli dosya listesi
 
 > CLEO
