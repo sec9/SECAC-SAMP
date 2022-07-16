@@ -15,3 +15,4 @@
 |FPSUnlock.cs|18114|87677c89|
 |hud_colors_junior_djjr.cs|3707|cc667962|
 |remove_zeros.cs|18323|bd48a59f|
+|FPScounter.cs|22095|c3268805|
