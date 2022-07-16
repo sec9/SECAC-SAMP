@@ -11,3 +11,6 @@
 |amazingscreen.cs|5154|4c66fd09|
 |compas.cs|18138|47e1c9be|
 |zonetext.cs|18692|d83ca62a|
+|Radar_Zoom_Fix.cs|20862|03c002bf|
+|FPSUnlock.cs|18114|87677c89|
+|hud_colors_junior_djjr.cs|3707|cc667962|
