@@ -4,3 +4,4 @@
 |Memory 4GB.cs|17809|b889345e|
 |ccontrol.cs|20487|7561542e|
 |pricel.cs|18469|6a8315f4|
+|SensitivityFix.cs|17924|facb92ae|
