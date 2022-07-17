@@ -9,6 +9,8 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Oyundaki crash sorununu çözer.
 > /fpsunlock
 - Oyundaki FPS limitini (90) kaldırır.
+> /memoryfix
+- Oyundaki RAM kaynaklı geç yüklenmeyi (objeler, oyuncular, araçlar vb.) düzeltmek için oyunun kullanabileceği RAM değerini bilgisayarınıza uygun şekilde arttırır.
 > /motionblur [0-60]
 - Araç ile hızlanınca ekran blur efekti seviyesini belirler.
 > /hitsound
