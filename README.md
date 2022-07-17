@@ -5,6 +5,10 @@
 SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Komutlar
+> /anticrasher
+- Oyundaki crash sorununu çözer.
+> /fpsunlock
+- Oyundaki FPS limitini (90) kaldırır.
 > /motionblur [0-60]
 - Araç ile hızlanınca ekran blur efekti seviyesini belirler.
 > /hitsound
