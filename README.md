@@ -29,8 +29,8 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - MemFix.cs
 - Memory 8GB.cs
 - Memory 4GB.cs
-- Memory_8GB.cs
-- Memory_4GB.cs
+- Memory 2GB.cs
+- Memory 1GB.cs
 - ccontrol.cs
 - pricel.cs
 - HUDFix.cs
@@ -51,3 +51,13 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - NIGHT.cs
 - radio_off.cs
 - Health.cs
+- Mix_Sets__Junior_Djjr_.cs
+- Tree_Remove.cs
+- weather.cs
+- sampcs_helper.cs
+- noisefix.cs
+- neon.cs
+- memory_full.cs
+- Drift_Camera.cs
+- Car_Speed_FPS_Fix_.cs
+- Fix_Water_Square_Junior_Djjr.cs
