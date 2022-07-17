@@ -14,6 +14,7 @@
 |SensitivityFix.cs|17924|facb92ae|
 |amazingscreen.cs|5154|4c66fd09|
 |compas.cs|18138|47e1c9be|
+|utzonetext.cs|18692|d83ca62a|
 |zonetext.cs|18692|d83ca62a|
 |zonetext.cs|27036|ab50cb72|
 |Radar_Zoom_Fix.cs|20862|03c002bf|
@@ -39,3 +40,10 @@
 |Drift_Camera.cs|134|471909a0|
 |Car_Speed_FPS_Fix_.cs|88|286ddeb3|
 |Fix_Water_Square_Junior_Djjr.cs|76|ed982dfe|
+|Anti-lag.cs|719|c18484f2|
+|memory2048.cs|17560|efe0e745|
+|memory512.cs|17560|b1c790eb|
+|UltraFastConnect.cs|1121|8a7514a2|
+|mousensxy.cs|640|cd762e66|
+|hud.cs|8049|44fc0551|
+|Ver_coches_desde_lejos.cs|17722|05c8cc5d|
