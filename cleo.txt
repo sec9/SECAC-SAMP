@@ -2,8 +2,12 @@
 |MemFix.cs|18|4d137ef8|
 |Memory 8GB.cs|17809|db0298e1|
 |Memory 4GB.cs|17809|b889345e|
+|Memory 2GB.cs|17809|2f294198|
+|Memory 1GB.cs|17809|0965a257|
 |Memory_8GB.cs|17809|db0298e1|
 |Memory_4GB.cs|17809|b889345e|
+|Memory_2GB.cs|17809|2f294198|
+|Memory_1GB.cs|17809|0965a257|
 |ccontrol.cs|20487|7561542e|
 |pricel.cs|18469|6a8315f4|
 |HUDFix.cs|18323|bd48a59f|
@@ -11,6 +15,7 @@
 |amazingscreen.cs|5154|4c66fd09|
 |compas.cs|18138|47e1c9be|
 |zonetext.cs|18692|d83ca62a|
+|zonetext.cs|27036|ab50cb72|
 |Radar_Zoom_Fix.cs|20862|03c002bf|
 |FPSUnlock.cs|18114|87677c89|
 |hud_colors_junior_djjr.cs|3707|cc667962|
@@ -24,3 +29,13 @@
 |NIGHT.cs|17594|68ac5a08|
 |radio_off.cs|17644|54ed5b98|
 |Health.cs|17682|cdb91dd9|
+|Mix_Sets__Junior_Djjr_.cs|28170|e56b154d|
+|Tree_Remove.cs|22830|cdaf2e43|
+|weather.cs|19513|23c670fd|
+|sampcs_helper.cs|337|1411348a|
+|noisefix.cs|137|1c9244c4|
+|neon.cs|19019|42102ceb|
+|memory_full.cs|31633|25ff5750|
+|Drift_Camera.cs|134|471909a0|
+|Car_Speed_FPS_Fix_.cs|88|286ddeb3|
+|Fix_Water_Square_Junior_Djjr.cs|76|ed982dfe|
