@@ -18,6 +18,8 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Kamera FOV değerini belirler.
 > /aimfov [30-70]
 - Aim kamerasının FOV değerini belirler.
+> /wheelfix
+- Araçların uzaktayken sadece tekerleklerinin gözükmesi sorununu düzeltir.
 
 # Bilinen Açıklar / Hatalar
 - SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
