@@ -60,6 +60,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - memory_full.cs
 - Drift_Camera.cs
 - Car_Speed_FPS_Fix_.cs
+- Car_Speed_FPS_Fix_Junior_Djjr.cs
 - Fix_Water_Square_Junior_Djjr.cs
 - Anti-lag.cs
 - memory2048.cs
