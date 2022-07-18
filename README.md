@@ -34,7 +34,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Güncel izinli dosya listesi
 
-> CLEO
+> CLEO (70 adet)
 - anticrasher_03DL.cs
 - MemFix.cs
 - Memory 8GB.cs
@@ -94,3 +94,13 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - hizsabitleyici.cs
 - GPS.cs
 - Hava_Ve_Saat.cs
+- Timecyc.cs
+- Load_Whole_Map_Junior_Djjr.cs
+- FOV_Changer.cs
+- havadurumu.cs
+- c_hud.cs
+- c_timer.cs
+- binthesky_by_DK.cs
+- Hiz_Sabitleme_V1.4_By_Bloodriver.cs
+- emergencylights.cs
+- cleoskybox.cs
