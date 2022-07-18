@@ -94,4 +94,3 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - hizsabitleyici.cs
 - GPS.cs
 - Hava_Ve_Saat.cs
-- VCCam.cs
