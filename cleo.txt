@@ -48,7 +48,7 @@
 |hud.cs|8049|44fc0551|
 |Ver_coches_desde_lejos.cs|17722|05c8cc5d|
 |zone_text_fix.cs|23177|4ba2052b|
-|VCCam.cs|82|0d3e6e04|
+|VCCam.cs|082|0d3e6e04|
 |Status_Indicators.cs|18170|6e81c9c4|
 |FPS.cs|17708|420abfaf|
 |Rapid_opening_map.cs|17699|6d4149f9|
