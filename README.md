@@ -11,7 +11,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Oyundaki FPS limitini (90) kaldırır.
 > /memoryfix
 - Oyundaki RAM kaynaklı geç yüklenmeyi (objeler, oyuncular, araçlar vb.) düzeltmek için oyunun kullanabileceği RAM değerini bilgisayarınıza uygun şekilde arttırır.
-> /sensitivityfix
+> /mousefix
 - Farenizin oyun içerisindeki X ve Y hassaslığını eşitleyerek, fare kontrolünde daha uygun hassaslığı sağlar.
 > /motionblur [0-60]
 - Araç ile hızlanınca ekran blur efekti seviyesini belirler.
