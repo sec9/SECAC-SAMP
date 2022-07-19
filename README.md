@@ -38,7 +38,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Güncel izinli dosya listesi
 
-> CLEO (70 adet)
+> CLEO (72 adet)
 - anticrasher_03DL.cs
 - MemFix.cs
 - Memory 8GB.cs
@@ -108,3 +108,5 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Hiz_Sabitleme_V1.4_By_Bloodriver.cs
 - emergencylights.cs
 - cleoskybox.cs
+- gta_iv_lights.cs
+- Aim_Sensibility.cs
