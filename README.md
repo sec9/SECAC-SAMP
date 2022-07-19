@@ -28,6 +28,10 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Aim kamerasının FOV değerini belirler.
 > /wheelfix
 - Araçların uzaktayken sadece tekerleklerinin gözükmesi sorununu düzeltir.
+> /time [0-24]
+- Oyun içerisindeki saati değiştirir.
+> /weather [0-255]
+- Oyun içerisindeki hava durumunu değiştirir.
 
 # Bilinen Açıklar / Hatalar
 - SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
