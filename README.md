@@ -5,6 +5,8 @@
 SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Komutlar
+> /css
+- Oyun chat ekranının arkaplanı silinmiş halde ekran görüntüsü alır.
 > /anticrasher
 - Oyundaki crash sorununu çözer.
 > /fpsunlock
