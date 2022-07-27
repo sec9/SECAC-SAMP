@@ -5,8 +5,6 @@
 SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Komutlar
-> /css
-- Oyun chat ekranının arkaplanı silinmiş halde ekran görüntüsü alır.
 > /anticrasher
 - Oyundaki crash sorununu çözer.
 > /fpsunlock
@@ -34,6 +32,8 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Oyun içerisindeki saati değiştirir.
 > /weather [0-255]
 - Oyun içerisindeki hava durumunu değiştirir.
+> /chatshoot
+- Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
 
 # Bilinen Açıklar / Hatalar
 - SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
