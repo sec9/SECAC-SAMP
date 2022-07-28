@@ -37,6 +37,8 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Bilinen Açıklar / Hatalar
 - SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
+- CodsMP entegreli bir oyunda /time ve /weather komutları çalışmıyor.
+- Winebottler entegreli bir oyunda SECAC çalışmıyor.
 
 # Güncel izinli dosya listesi
 
