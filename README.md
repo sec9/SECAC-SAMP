@@ -6,7 +6,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
 # Komutlar
 > /anticrasher
-- Oyundaki crash sorununu çözer.
+- Oyunun çökme sorunlarını düzeltir.
 > /fpsunlock
 - Oyundaki FPS limitini (90) kaldırır.
 > /memoryfix
