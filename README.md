@@ -17,6 +17,8 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Araç ile hızlanınca ekran blur efekti seviyesini belirler.
 > /hitsound
 - Herhangi bir oyuncuya silah ile hasar verdiğinizde bildirim sesi çıkartır.
+> /hitmarker
+- Herhangi bir oyuncuya silah ile hasar verdiğinizde ekranda bildirim işareti çıkartır.
 > /removezeros
 - Sağ üstteki para göstergesindeki gereksiz 0'ları kaldırır. (dikkat! bu komutun açıkları aşağıda belirtilmiştir)
   - Eğer para değeriniz 0'dan aşağıya düşer ise oyununuz çöker, yeniden girmeniz gerekir.
