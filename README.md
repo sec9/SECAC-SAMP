@@ -24,9 +24,9 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
   - Eğer para değeriniz 0'dan aşağıya düşer ise oyununuz çöker, yeniden girmeniz gerekir.
 > /moneyborder [0-2]
 - Sağ üstteki para göstergesinin dışındaki siyahlığın kalınlığını belirler.
-> /fov [30-70]
+> /fov [30-100]
 - Kamera FOV değerini belirler.
-> /aimfov [30-70]
+> /aimfov [30-100]
 - Aim kamerasının FOV değerini belirler.
 > /wheelfix
 - Araçların uzaktayken sadece tekerleklerinin gözükmesi sorununu düzeltir.
