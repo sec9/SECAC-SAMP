@@ -4,6 +4,14 @@
 
 SECNINE SA-MP hizmetleri için SECAC eklentisi.
 
+# Bilinen Açıklar / Hatalar
+- SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
+- CodsMP entegreli bir oyunda /time ve /weather komutları çalışmıyor.
+- Winebottler entegreli bir oyunda SECAC çalışmıyor.
+
+# Bilgilendirmeler
+- SECAC'nin D3D hook kullanmaması için oyun klasörünüzde secac_nohook.set adında boş bir dosya oluşturabilirsiniz. (oyun performansını arttırabilir fakat /hitmarker komutunu kullanamazsınız)
+
 # Komutlar
 > /anticrasher
 - Oyunun çökme sorunlarını düzeltir.
@@ -36,11 +44,6 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Oyun içerisindeki hava durumunu değiştirir.
 > /chatshoot
 - Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
-
-# Bilinen Açıklar / Hatalar
-- SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınıyor.
-- CodsMP entegreli bir oyunda /time ve /weather komutları çalışmıyor.
-- Winebottler entegreli bir oyunda SECAC çalışmıyor.
 
 # Güncel izinli dosya listesi
 
