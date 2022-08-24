@@ -42,7 +42,7 @@ SECNINE SA-MP hizmetleri için SECAC eklentisi.
 - Oyun içerisindeki saati değiştirir.
 > /weather [0-255]
 - Oyun içerisindeki hava durumunu değiştirir.
-> /chatshoot
+> /chatshot, /css
 - Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
 
 # Güncel izinli dosya listesi
