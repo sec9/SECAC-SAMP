@@ -3,7 +3,9 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 
 # Bilinen Açıklar / Hatalar
 • SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınabiliyor.
+
 • CodsMP entegreli bir oyunda /time ve /weather komutları çalışmayabiliyor.
+
 • Winebottler entegreli bir oyunda SECAC çalışmıyor.
 
 # Bilgilendirmeler
