@@ -6,12 +6,15 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 # Bilinen Açıklar / Hatalar
 - SECAC oyunun anti aliasing seçeneğinin devre dışı kalmasına ve oyunun pikselleşmesine sebep olabiliyor.
 > Çözüm: **Bilgilendirmeler** kısmından bilgi edinerek D3D hook kullanımını kapatmanız gerekiyor.
+- SECAC oyunun gölgelerini ve birkaç sisteminin devre dışı kalmasına sebep olabiliyor.
+> Çözüm: **Bilgilendirmeler** kısmından bilgi edinerek çözebilirsiniz.
 - SA-MP Addon entegreli bir oyunda /q kullanılırsa crash hatası alınabiliyor.
 - CodsMP entegreli bir oyunda /time ve /weather komutları çalışmayabiliyor.
 - Winebottler ile SECAC çalışmıyor.
 
 # Bilgilendirmeler
-- SECAC'nin D3D hook kullanmaması için oyun klasörünüzde secac_nohook.set adında boş bir dosya oluşturabilirsiniz. (oyun performansını arttırabilir fakat /hitmarker komutunu kullanamazsınız)
+- SECAC'nin D3D hook kullanmaması için oyun klasörünüzde **secac_nohook** adında boş bir metin belgesi oluşturabilirsiniz. (oyun performansını arttırabilir fakat /hitmarker komutunu kullanamazsınız)
+- SECAC'nin oyun hatalarını düzeltmesini, performansını ve açılışını optimize etmesini durdurmak için oyun klasörünüzde **secac_nofix** adında boş bir metin belgesi oluşturabilirsiniz. (oyunun gölgelerini ve birkaç özelliğini aktif eder fakat performans düşüşü yaşanabilir)
 
 # Komutlar
 **/anticrasher**
