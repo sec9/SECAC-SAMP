@@ -60,5 +60,8 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 **/weather [0-255]**
 > Oyun içerisindeki hava durumunu değiştirir.
 
+**/carsiren**
+> Aracın siren durumunu değiştirir. (LSPD için)
+
 **/chatshot, /css**
 > Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
