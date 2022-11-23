@@ -60,6 +60,9 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 **/weather [0-255]**
 > Oyun içerisindeki hava durumunu değiştirir.
 
+**/carshadow**
+> Statik araç gölgelerinin durumunu değiştirir.
+
 **/carsiren**
 > Aracın siren durumunu değiştirir. (LSPD için)
 
