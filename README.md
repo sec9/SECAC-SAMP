@@ -3,6 +3,10 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 
 [![GitHub Release](https://img.shields.io/github/release/sec9/SECAC-SAMP.svg)](https://github.com/sec9/SECAC-SAMP/releases/latest) [![Download](https://img.shields.io/badge/downloads-+20k-%20brightgreen)](https://github.com/sec9/SECAC-SAMP/releases/latest)
 
+# Sıkça Yaşanan Sorunlar
+- Araç sesleri koşma sesi gibi garip duyuluyor.
+> Çözüm: **SA-MP Addon** modunu güncelleyin veya Launcher kullanın.
+
 # Bilinen Açıklar / Hatalar
 - SECAC oyunun anti aliasing seçeneğinin devre dışı kalmasına ve oyunun pikselleşmesine sebep olabiliyor.
 > Çözüm: **Bilgilendirmeler** kısmından bilgi edinerek D3D hook kullanımını kapatmanız gerekiyor.
