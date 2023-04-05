@@ -66,5 +66,8 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 **/carsiren**
 > Aracın siren durumunu değiştirir. (LSPD için)
 
-**/chatshot, /css**
+**/wheelie**
+> Araçların ön kaldırmasını aktifleştirir veya pasifleştirir.
+
+**/chatshot, /css** (devredışı)
 > Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
