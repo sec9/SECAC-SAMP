@@ -69,5 +69,5 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 **/wheelie**
 > Araçların ön kaldırmasını aktifleştirir veya pasifleştirir.
 
-**/chatshot, /css** (devredışı)
+**/chatshot, /css**
 > Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
