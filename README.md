@@ -17,6 +17,9 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 - SECAC'nin oyun hatalarını düzeltmesini, performansını ve açılışını optimize etmesini durdurmak için oyun klasörünüzde **secac_nofix** adında boş bir metin belgesi oluşturabilirsiniz. (oyunun gölgelerini ve birkaç özelliğini aktif eder fakat performans düşüşü yaşanabilir)
 
 # Komutlar
+**/chatshot, /css**
+> Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
+
 **/anticrasher**
 > Oyunun çökme sorunlarını düzeltir.
 
@@ -69,5 +72,5 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 **/wheelie**
 > Araçların ön kaldırmasını aktifleştirir veya pasifleştirir.
 
-**/chatshot, /css**
-> Oyunun sohbet görüntüsünü transparan bir şekilde PNG olarak kaydeder.
+**/weaponreload**
+> R tuşu ile silah mermisi yenileme sistemini aktifleştirir veya pasifleştirir.
