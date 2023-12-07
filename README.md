@@ -74,3 +74,6 @@ SECNINE, SA-MP hizmetleri için geliştirilen antihile eklentisi.
 
 **/weaponreload**
 > R tuşu ile silah mermisi yenileme sistemini aktifleştirir veya pasifleştirir.
+
+**/disableneon**
+> Neon objelerinin gözükmesini aktifleştirir veya pasifleştirir.
